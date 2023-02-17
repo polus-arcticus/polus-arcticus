@@ -1,4 +1,10 @@
-### Hi there 👋
+### :mountain_snow: [Polus Arcticus](https://polusarcticus.gitlab.io/web-portal/) :skier:
+#### Economics :balance_scale: | Full Stack :computer: | EVM :ice_cube: | DLT :receipt: <br/>
+:fox_face:  Find me on [Gitlab!](https://gitlab.com/polusarcticus) <br/>
+:test_tube: Currently focusing on putting [EIP-712](https://eips.ethereum.org/EIPS/eip-712) permits inside other peoples EIP-712 permits at [AH-p2p](https://gitlab.com/polusarcticus/ipfs-pubsub-webrtc) for a new style of smart contract development.  <br/>
+:mag_right: Currently learning the nuts and bolts of volatility markets <br/>
+💬 Ask me about novel liquidity concentration algorithms, decentralized social media, and using game theory to construct blockchain games <br/>
+📫 [telegram](https://t.me/polusarcticus) | [email](thulsmans.1133@gmail.com) 
 
 <!--
 **polus-arcticus/polus-arcticus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

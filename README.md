@@ -1,5 +1,8 @@
-### :mountain_snow: [Polus Arcticus](https://polusarcticus.gitlab.io/web-portal/) :skier:
-#### Economics :balance_scale: | Full Stack :computer: | EVM :ice_cube: | DLT :receipt: <br/>
+<h2 align="center">:mountain_snow: <a href="https://polusarcticus.gitlab.io/web-portal/">Polus Arcticus</a> :skier:<h3>
+<p align="center"><img src="https://github.com/polus-arcticus/polus-arcticus/blob/main/septentrio-banner.jpg"/></p>
+<p align="center">Economics :balance_scale: | Full Stack :computer: | EVM :ice_cube: | DLT :receipt:</p><br/>
+
+
 :fox_face:  Find me on [Gitlab!](https://gitlab.com/polusarcticus) <br/>
 :test_tube: Currently focusing on putting [EIP-712](https://eips.ethereum.org/EIPS/eip-712) permits inside other peoples EIP-712 permits at [AH-p2p](https://gitlab.com/polusarcticus/ipfs-pubsub-webrtc) for a new style of smart contract development.  <br/>
 :mag_right: Currently learning the nuts and bolts of volatility markets <br/>

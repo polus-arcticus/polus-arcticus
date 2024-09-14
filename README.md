@@ -5,7 +5,6 @@
 
 :fox_face:  Find me on [Gitlab!](https://gitlab.com/polusarcticus) <br/>
 :test_tube: Currently exploring the world of DeSci and building on the [FileCoin EVM](https://fvm.filecoin.io/). <br/>
-:mag_right: Currently learning the nuts and bolts of volatility markets <br/>
 💬 Ask me about novel liquidity concentration algorithms, decentralized social media, and using game theory to construct blockchain games <br/>
 📫 [telegram](https://t.me/polusarcticus) | [email](thulsmans.1133@gmail.com) 
 

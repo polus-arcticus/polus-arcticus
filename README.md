@@ -1,12 +1,12 @@
-<h2 align="center">:mountain_snow: <a href="https://polusarcticus.gitlab.io/web-portal/">Polus Arcticus</a> :skier:<h3>
+<h2 align="center">:mountain_snow: <a href="https://polusarcticus.gitlab.io/web-portal/">Polus Arcticus</a> 🌪️<h3>
 <p align="center"><img src="https://github.com/polus-arcticus/polus-arcticus/blob/main/septentrio-banner.jpg"/></p>
 <p align="center">Economics :balance_scale: | Full Stack :computer: | EVM :ice_cube: | DLT :receipt:</p><br/>
 
 
-:fox_face:  Find me on [Gitlab!](https://gitlab.com/polusarcticus) <br/>
-:test_tube: Currently exploring the world of DeSci and building on the [FileCoin EVM](https://fvm.filecoin.io/). <br/>
-💬 Ask me about novel liquidity concentration algorithms, decentralized social media, and using game theory to construct blockchain games <br/>
-📫 [telegram](https://t.me/polusarcticus) | [email](thulsmans.1133@gmail.com) 
+- :fox_face:  Find me on [Gitlab!](https://gitlab.com/polusarcticus) <br/>
+- :test_tube: DeSci, IPFS, DeFi <br/>
+- 💬  liquidity concentration algorithms, decentralized social media, edge compute <br/>
+- 📫 [telegram](https://t.me/polusarcticus) | [email](thulsmans.1133@gmail.com) 
 
 <!--
 **polus-arcticus/polus-arcticus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

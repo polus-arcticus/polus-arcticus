@@ -5,7 +5,7 @@
 
 - :fox_face:  Find me on [Gitlab!](https://gitlab.com/polusarcticus) <br/>
 - :test_tube: DeSci, IPFS, DeFi <br/>
-- 💬  liquidity concentration algorithms, decentralized social media, edge compute <br/>
+- 💬  liquidity concentration, decentralized socials, edge compute <br/>
 - 📫 [telegram](https://t.me/polusarcticus) | [email](thulsmans.1133@gmail.com) 
 
 <!--
